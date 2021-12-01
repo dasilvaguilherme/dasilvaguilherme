@@ -1,5 +1,5 @@
 # _Seja bem vindo ao meu universo!_
-Olá! Me chamo Guilherme Silva, tenho 28anos e hoje Cursando Sup. Téc. Analises Desenvolvimento de Sistema na Universidade Paulista (UNIP); Formação em curso "Técnico em Montagem e Manutenção de Microcomputadores", "Técnico em Redes de Computadores" e "Curso de Administração de Redes" no Instituto " SENAI “Mariano Ferraz”, Concluído ainda em Dezembro de 2018 o "Curso Técnico em Redes" voltado para "Certificação dos equipamentos Cisco CCNA no "Instituto Técnico de Barueri ITB - Profº Munir José ( Cisco Acadmy ).
+Olá! Me chamo Guilherme Silva, hoje Cursando Sup. Téc. Analises Desenvolvimento de Sistema na Universidade Paulista (UNIP); Formação em curso "Técnico em Montagem e Manutenção de Microcomputadores", "Técnico em Redes de Computadores" e "Curso de Administração de Redes" no Instituto " SENAI “Mariano Ferraz”, Concluído ainda em Dezembro de 2018 o "Curso Técnico em Redes" voltado para "Certificação dos equipamentos Cisco CCNA no "Instituto Técnico de Barueri ITB - Profº Munir José ( Cisco Acadmy ).
 ***
 <div align="center">
   <a href="https://github.com/dasilvaguilherme">
