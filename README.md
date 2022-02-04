@@ -30,7 +30,7 @@ Olá! Me chamo Guilherme Silva, hoje Cursando Sup. Téc. Analises Desenvolviment
 ***
 ## Um pouco de minhas experiencias profissionais!
 ### Teletech Brasil Serviços LTDA.
-#### Sales Developer Google Cloud & G Workspace - 10/2019 - Atualmente
+#### Sales Developer Google Cloud & G Workspace - 10/2019 - 02/2022
 * Efetuar a recepção do cliente, através de atendimento telefônico personalizado focando em qualidade e
 eficiência, responder as dúvidas e entender as necessidades e problemas, encaminhar clientes
 potenciais corporativos para os parceiros de vendas e/ou suporte.
@@ -42,7 +42,8 @@ potenciais corporativos para os parceiros de vendas e/ou suporte.
 ## Abaixo esta listadado os cursos mais recentes :eyes:
 Ano | Curso | Professor | Carga Horaria | Status
 :---: | ---: | :--- | :--- | :---:
-2021 | HTML5 e CSS3: módulo 3 | Gustavo Guanabara | 40hrs | Cursando
+2022 | HTML5 e CSS3: módulo 3 | Gustavo Guanabara | 40hrs | Cursando
+2022 | MySQL | Gustavo Guanabara | 40hrs | Cursando
 2021 | Python - Mundo 1 | Gustavo Guanabara | 40hrs | Cursando
 2021 | JavaScript | Gustavo Guanabara | 40hrs | Concluido
 2021 |  Git & GitHub | Gustavo Guanabara | 20hrs | Concluido
