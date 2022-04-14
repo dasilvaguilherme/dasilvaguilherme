@@ -1,5 +1,5 @@
 # _Seja bem vindo ao meu universo!_
-Olá! Me chamo Guilherme Silva, hoje Cursando Sup. Téc. Analises Desenvolvimento de Sistema na Universidade Paulista (UNIP); Formação em curso "Técnico em Montagem e Manutenção de Microcomputadores", "Técnico em Redes de Computadores" e "Curso de Administração de Redes" no Instituto " SENAI “Mariano Ferraz”, Concluído ainda em Dezembro de 2018 o "Curso Técnico em Redes" voltado para "Certificação dos equipamentos Cisco CCNA no "Instituto Técnico de Barueri ITB - Profº Munir José ( Cisco Acadmy ).
+Meu nome é Guilherme Augusto da Silva, só Guilherme Silva ja basta. Sou estudante da Unip, Cursando: Analise e Desenvolvimento de Sistemas. E pretendo me torna um Dev Front-end e Web. Ainda estou em busca de minha primeira oportunidade nessa transição de carreira, porem ainda estudo e pratico para aumentar minhas “Skills”.
 ***
 <div align="center">
   <a href="https://github.com/dasilvaguilherme">
