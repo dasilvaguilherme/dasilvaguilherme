@@ -42,9 +42,9 @@ potenciais corporativos para os parceiros de vendas e/ou suporte.
 ## Abaixo esta listadado os cursos mais recentes :eyes:
 Ano | Curso | Professor | Carga Horaria | Status
 :---: | ---: | :--- | :--- | :---:
-2022 | HTML5 e CSS3: módulo 3 | Gustavo Guanabara | 40hrs | Cursando
-2022 | MySQL | Gustavo Guanabara | 40hrs | Cursando
-2021 | Python - Mundo 1 | Gustavo Guanabara | 40hrs | Cursando
+2022 | HTML5 e CSS3: módulo 3 | Gustavo Guanabara | 40hrs | Concluido
+2022 | MySQL | Gustavo Guanabara | 40hrs | Concluido
+2021 | Python - Mundo 1 | Gustavo Guanabara | 40hrs | Concluido
 2021 | JavaScript | Gustavo Guanabara | 40hrs | Concluido
 2021 |  Git & GitHub | Gustavo Guanabara | 20hrs | Concluido
 2021 | HTML5 e CSS3: módulo 1 | Gustavo Guanabara | 40hrs | Concluido
