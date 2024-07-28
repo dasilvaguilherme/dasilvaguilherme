@@ -1,5 +1,5 @@
 # _Seja bem vindo ao meu universo!_
-Meu nome é Guilherme Augusto da Silva, só Guilherme Silva ja basta. Sou estudante da Unip, Cursando: Analise e Desenvolvimento de Sistemas. E pretendo me torna um Dev Front-end e Web. Ainda estou em busca de minha primeira oportunidade nessa transição de carreira, porem ainda estudo e pratico para aumentar minhas “Skills”.
+Meu nome é Guilherme Augusto da Silva, só Guilherme Silva ja basta. Sou ex estudante da Unip, no curso: Analise e Desenvolvimento de Sistemas. 
 ***
 <div align="center">
   <a href="https://github.com/dasilvaguilherme">
